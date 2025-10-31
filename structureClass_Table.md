@@ -10,7 +10,6 @@
 | - | `Methods` declare<br>define | Inside<br>Inside and Outside |
 | - | Special `Methods`<br>*Automatic* | Constructors (created) and<br>Destructors (destructed) |
 | - | `Methods` Memory allocation<br>Dynamic (Heap memory) | new (create) and delete (destroy) |
-
 | Abstraction | Object oriented Programming | Abstraction,<br>Encapsulation,<br>Inheritance and<br>Polymorphism |
 | - | Constructor | creation |
 | 0 | sizeof()<br>Empty | 1 |
