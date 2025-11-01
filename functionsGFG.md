@@ -30,3 +30,8 @@
 * Naming rules are same as followed by variables.
 * Parameter list: A set of input values passed to the function. If the function takes no inputs, this can be left empty or written as void.
 </details>
+
+<details>
+<summary>How to return multiple values from a function?</summary>
+
+</details>
