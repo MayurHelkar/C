@@ -59,4 +59,7 @@
    | &parameter | parameter[] |
 </details>
 
-
+<details>
+<summary>Types of Functions</summary>
+ in C
+</details>
