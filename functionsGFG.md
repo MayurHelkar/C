@@ -18,10 +18,11 @@
 **Return type** - 
 * Specifies type of value to be returned from the function.
 * Datatypes - char, int, flloat, double, array, union, struct, enum.
-* End of function. Next line after return wlll be neglected/ not executed.
 * Types -
   - `return;` - void return type
-  - `return value;` returns single value only based on datatype.
+  - `return value;` returns a single value using the return statement, based on datatype .
+* End of function. Only return a single value from the function .
+  - After return, based on *void/ non void datatypes*, it passes the control back to the *called function*.
  
 **Function name** - 
 * Unique name for function identification. 
