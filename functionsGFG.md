@@ -61,7 +61,19 @@
 
 <details>
 <summary>Types of Functions</summary>
+  
 * Categories - 2
-  1. Library - Built-in functions provided by C.
+1. Library/ Built-in :
+    - Built-in functions provided by C.
     - Also including the appropriate header file
+    - `#include <header_filename.h>`
+2. User-Defined Functions :
+    - Created by users to perform specific tasks in your program.
+    - Depending on return a value or how many types and no's of arguments required, they can be of four types:
+      | return datatype/ *Output* | parameters/ *Inputs* |
+      | ----------- | ---------- |
+      | void | void |
+      | void | Non-void |
+      | Non-void | void |
+      | Non-void | Non-void |
 </details>
