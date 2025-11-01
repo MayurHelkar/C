@@ -77,3 +77,8 @@
       | Non-void | void |
       | Non-void | Non-void |
 </details>
+
+<details>
+<summary>Memory Management of Functionss</summary>
+* On function called, program control/ flow temporarily passed/ jumps to that function, executes its code, and then returns to the point where it was called. To efficiently manage this flow, C uses a stack data structure known as the call stack.
+</details>
