@@ -35,4 +35,21 @@
 <summary>How to return multiple values from a function?</summary>
 
 * Methods to return multiple values from a function :
+  - By using pointers.
+  - By using structures.
+  - By using Arrays.
+1. Returning multiple values Using pointers :
+   | function call | function definition |
+   | ------------- | ------------------- |
+   | &parameter | *parameter |
+
+2. Returning multiple values using structures :
+   | function call | function definition |
+   | ------------- | ------------------- |
+   | &parameter | *parameter |
+
+3. Returning multiple values using an array (Works only when returned items are of same types) :
+   | function call | function definition |
+   | ------------- | ------------------- |
+   | &parameter | parameter[] |
 </details>
