@@ -14,4 +14,17 @@
 
 <details>
 <summary>How Functions Work in C?</summary>
+  
+**Return type** - 
+* Specifies type of value to be returned from the function.
+* Datatypes - char, int, flloat, double, array, union, struct, enum.
+* End of function. Next line after return wlll be neglected/ not executed.
+* Types -
+  - `return;` - void return type
+  - `return value;` returns single value only based on datatype.
+ 
+**Function name** - 
+* Unique name for function identification. 
+* Naming rules are same as followed by variables.
+* Parameter list: A set of input values passed to the function. If the function takes no inputs, this can be left empty or written as void.
 </details>
