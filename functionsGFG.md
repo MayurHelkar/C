@@ -23,6 +23,7 @@
   - `return value;` returns a single value using the return statement, based on datatype .
 * End of function. Only return a single value from the function .
   - After return, based on *void/ non void datatypes*, it passes the control back to the *called function*.
+* Multiple return statements is possible, but only one is executed.
  
 **Function name** - 
 * Unique name for function identification. 
