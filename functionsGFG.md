@@ -6,6 +6,7 @@
 | Function declare/ prototype | Function define | Function call |
 | ---------------- | --------------- | ------------- |
 | return_type function_name (datatype parameters_name); | return_type function_name (datatype parameters_name)<br>{<br>block_of_code<br>} | function_name( parameters); |
+| Does not contain the function's body | Provides the actual implementation of the function.<br>Includes the code logic | Searches the declaration then definition and runs the code logic |
 </details>
 
 <details>
@@ -31,7 +32,8 @@
 * Parameter list: A set of input values passed to the function. If the function takes no inputs, this can be left empty or written as void.
 
 **Function body**
-* The block of code that runs when the function is called. It is enclosed in curly braces { }.
+* The block of code is enclosed in curly braces { }.
+* Executes/ runs when function called.
 </details>
 
 <details>
