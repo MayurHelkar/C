@@ -61,5 +61,7 @@
 
 <details>
 <summary>Types of Functions</summary>
- in C
+* Categories - 2
+  1. Library - Built-in functions provided by C.
+    - Also including the appropriate header file
 </details>
